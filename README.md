@@ -182,7 +182,7 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 
 *Open to collaborating on GenAI architecture, agentic AI platforms, and enterprise AI transformation.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshsm)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshnsm)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.natarajan19@gmail.com)
 
 <br/>

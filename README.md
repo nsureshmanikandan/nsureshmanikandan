@@ -5,7 +5,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sureshsm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshsm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sureshnsm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshnsm)
 [![Email](https://img.shields.io/badge/Email-suresh.natarajan19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.natarajan19@gmail.com)
 [![Location](https://img.shields.io/badge/Chennai-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Experience](https://img.shields.io/badge/Experience-24+%20Years%20IT-2c5364?style=for-the-badge&logo=briefcase&logoColor=white)](#)

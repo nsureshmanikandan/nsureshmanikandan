@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suresh%20Manikandan%20Natarajan&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Technical%20Program%20Manager%20%7C%20GenAI%20Solutions%20Architect&descSize=16&descAlignY=58&descColor=7ecfff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suresh%20Manikandan%20Natarajan&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Technical%20Program%20Manager%20%7C%20AI%20Solutions%20Architect&descSize=16&descAlignY=58&descColor=7ecfff" width="100%"/>
 
 <br/>
 
@@ -16,12 +16,12 @@
 
 ## 👨‍💼 About Me
 
-> **Technical Program Manager & GenAI Solutions Architect** with **around 23 years** in enterprise technology, including **18 years at Accenture** and **5+ years of US onshore delivery** (Allstate TX · Honda CA · Aetna OH).
+> **Technical Program Manager & AI Solutions Architect** with **around 23 years** in enterprise technology, including **18 years at Accenture** and **5+ years of US onshore delivery** (Allstate TX · Honda CA · Aetna OH).
 
 I architect multi-agent AI platforms for Fortune 500 clients — combining deep engineering roots with program leadership to deliver measurable impact:
 
 - 🚀 **95% faster time-to-market** — compressed 2–3 week cycles to under 10 minutes
-- 💰 **$10M+ projected savings** driven across enterprise GenAI programmes
+- 💰 **$10M+ projected savings** driven across enterprise AI programmes
 - 📉 **45% cost reduction** across SoCo, MRC Global & UOB platforms
 - 👥 **15+ engineer teams** led across Azure & AWS globally
 
@@ -30,7 +30,7 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 ## 🤖 Signature AI Projects
 
 ### 🧬 SynOps Marketing Briefing Studio — *Pharma Campaign AI Platform*
-> *Accenture · Enterprise GenAI | LangGraph · Azure OpenAI · Sora 2.0*
+> *Accenture · Enterprise AI | LangGraph · Azure OpenAI · Sora 2.0*
 
 - Architected a **voice-to-campaign GenAI platform** — 7-agent LangGraph system (Briefing · Director · Planner · Creative · Asset Gen · MLR Compliance · QA)
 - Delivered **95% acceleration**: 2–3 week campaigns → under 10 minutes
@@ -47,17 +47,17 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 - Delivered **60+ AI-powered QC detectors** covering visual layout, brand compliance & typography
 - Resolved critical RabbitMQ bottleneck enabling large-scale INDD processing **(30 → 87 pages)**
 - **Won J&J Client Hackathon** — Agentic AI voice-call transcription & intelligent campaign briefing
-- **Impact:** $4,715 GenAI tooling savings · Hackathon winner · Leadership appreciation ×3
+- **Impact:** $4,715 AI tooling savings · Hackathon winner · Leadership appreciation ×3
 
 ---
 
-### 📊 MRC Global — *Buyout Analysis GenAI Agentic Platform*
+### 📊 MRC Global — *Buyout Analysis AI Agentic Platform*
 > *Accenture · Procurement AI | LangGraph · Azure OpenAI · PostgreSQL*
 
 - Architected multi-agent platform (Insights Agent + SQL Agent) for natural-language enterprise data analysis
 - Designed **13-tool agentic engine** — data retrievers, SQL generation/validation, schema fetchers & calculators
 - Secure Azure architecture: VNET · Private Link · App Service Easy Auth SSO · JWT validation
-- **Impact: $10.2M+ margin opportunity identified** through GenAI-driven data standardisation
+- **Impact: $10.2M+ margin opportunity identified** through AI-driven data standardisation
 
 ---
 
@@ -70,10 +70,10 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 
 ---
 
-### 🧠 SoCo (Southern Company) — *GenAI Knowledge Assistant*
+### 🧠 SoCo (Southern Company) — *AI Knowledge Assistant*
 > *Accenture · Enterprise RAG | Azure AI Search · pgvector · React*
 
-- Architected fine-tuned GenAI Knowledge Assistant replacing legacy Pathfinder — **90%+ UAT accuracy**
+- Architected fine-tuned AI Knowledge Assistant replacing legacy Pathfinder — **90%+ UAT accuracy**
 - Indexed **2,148+ documents** with category/workstream/metadata filtering for high-precision retrieval
 
 ---
@@ -144,12 +144,12 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 2005 ──► PM & Collaboration Tech    Software Engineer          (ASP.NET · C# · SQL Server)
 2006 ──► Sensiple Software          Software Engineer          (Full-Stack Web Development)
 2006 ──► Satyam Computer Services   Senior Software Engineer   (.NET · C# · US Finance/Healthcare)
-2008 ──► Accenture                  Technical Program Manager  (18 Years · Fortune 500 GenAI)
+2008 ──► Accenture                  Technical Program Manager  (18 Years · Fortune 500 AI Agentic)
         ├── Allstate TX  (US Onshore)
         ├── Honda CA     (US Onshore)
         ├── Aetna OH     (US Onshore)
         ├── MRC Global · SoCo · UOB · BP · JLR · Unilever · J&J
-        └── Present ──► GenAI Solutions Architect
+        └── Present ──► AI Solutions Architect
 ```
 
 ---
@@ -160,7 +160,7 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 |---|---|
 | 🏆 J&J Client Hackathon Winner | Agentic AI voice transcription & campaign briefing (Feb 2026) |
 | 💡 GTIC Season 7 Innovation | 10 innovation ideas submitted, adopted by leadership |
-| 🤖 GenAI Tool Adoption | $7,814.59 savings · 266 hrs productivity gain documented |
+| 🤖 AI Tool Adoption | $7,814.59 savings · 266 hrs productivity gain documented |
 | 🎖️ AOBG Reward Points | 4,860 points by Laureen Luo for MRC Global delivery excellence (Aug 2025) |
 | 🎓 Empaneled Interviewer | 130+ technical interviews — AI, ML, GenAI, Agentic AI, Azure |
 | 📐 InDesign Automation | Brochure auto-update tool → ~70% turnaround cut · $20K+ annual savings |
@@ -180,7 +180,7 @@ I architect multi-agent AI platforms for Fortune 500 clients — combining deep 
 
 ### 💬 Let's Connect
 
-*Open to collaborating on GenAI architecture, agentic AI platforms, and enterprise AI transformation.*
+*Open to collaborating on AI architecture, agentic AI platforms, and enterprise AI transformation.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshnsm)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.natarajan19@gmail.com)

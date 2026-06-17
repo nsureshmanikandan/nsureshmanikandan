@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sureshnsm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshnsm)
 [![Email](https://img.shields.io/badge/Email-suresh.natarajan19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suresh.natarajan19@gmail.com)
 [![Location](https://img.shields.io/badge/Chennai-India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Experience](https://img.shields.io/badge/Experience-24+%20Years%20IT-2c5364?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+[![Experience](https://img.shields.io/badge/Experience-23%20Years%20IT-2c5364?style=for-the-badge&logo=briefcase&logoColor=white)](#)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👨‍💼 About Me
 
-> **Technical Program Manager & GenAI Solutions Architect** with **24+ years** in enterprise technology, including **18 years at Accenture** and **5+ years of US onshore delivery** (Allstate TX · Honda CA · Aetna OH).
+> **Technical Program Manager & GenAI Solutions Architect** with **around 23 years** in enterprise technology, including **18 years at Accenture** and **5+ years of US onshore delivery** (Allstate TX · Honda CA · Aetna OH).
 
 I architect multi-agent AI platforms for Fortune 500 clients — combining deep engineering roots with program leadership to deliver measurable impact:
 
